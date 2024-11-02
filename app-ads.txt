@@ -273,3 +273,8 @@ webeyemob.com, 80029, RESELLER
 xandr.com, 15769, RESELLER
 zmaticoo.com, 5135195, RESELLER
 zmaticoo.com, 5135704, RESELLER
+voisetech.com, 1066, RESELLER
+lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
+pubmatic.com, 165116, RESELLER, 5d62403b186f2ace
+improvedigital.com, 2464, RESELLER
+video.unrulymedia.com, 436487936, RESELLER
